@@ -1,2 +1,2 @@
-# ProjektAI_L2_TOBEADDED
+# ProjektAI_L2_SimplyChat
 Project AI - description here
